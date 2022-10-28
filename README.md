@@ -3,7 +3,7 @@ A simple and lightweight Javascript SDK for the [One API](https://the-one-api.de
 ## Installation
 
 ```sh
-npm i @soferdani/daniel_sofer-SDK
+npm i daniel_sofer-sdk
 
 ```
 
